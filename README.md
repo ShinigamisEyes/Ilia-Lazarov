@@ -1,6 +1,7 @@
 # Ilia-Lazarov
 Lesson 1 sum finding 
 import java.util.*
+
 int a,b,sum;
 Scanner kb=new Scanner(System.in);
 System.out.println("Enter a: ");
